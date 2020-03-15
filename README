@@ -1,1 +1,3 @@
-hello from guest
+This is a Java class builder that takes JSON file as input and outputs corresponding compileable Java classsource code as well as its public set and get methods. 
+The class builder can serialize instantiated Java objects back to JSON files by using memoization DFS. The automatically generated deserialization method can reconstruct Java objects.
+To run the code, please run "gradle run".
