@@ -1,0 +1,144 @@
+1.
+Task:   Learn JSON files
+Estimated Time:  20 min
+Target Deadline:  Jan 28
+Actual Time:      10 min
+Actual Delivery:  Jan 31
+Commit ID:        d0a0cd983a5e423e471a99bf9ac9a8068581bf9c
+Comments:         Use library to parse JSON and print its key and value.
+
+2.
+Task:   Make an empty java constructor.
+Estimated Time:  10 min
+Target Deadline:  Jan 28
+Actual Time:      5 min
+Actual Delivery:  Jan 31
+Commit ID:        d0a0cd983a5e423e471a99bf9ac9a8068581bf9c
+Comments:         Make an empty java constructor.
+
+3.
+Task:   Implement string constructor.
+Estimated Time:  15 min
+Target Deadline:  Jan 28
+Actual Time:      1 h
+Actual Delivery:  Jan 31
+Commit ID:        d0a0cd983a5e423e471a99bf9ac9a8068581bf9c
+Comments:         Implement string constructor.
+
+4.
+Task:   Implement InputStream constructor.
+Estimated Time:  15 min
+Target Deadline:  Jan 28
+Actual Time:      Feb 6
+Actual Delivery:  30 min
+Commit ID:        7bfe8c3d7695b1dc9bc909450df16b9b2b513939
+Comments:         Implement InputStream constructor.
+
+5.
+Task:   Work on simple JSON   
+Estimated Time:  1.5 h
+Target Deadline:  Jan 28
+Actual Time:      30 min
+Actual Delivery:  Jan 31
+Commit ID:        d0a0cd983a5e423e471a99bf9ac9a8068581bf9c
+Comments:         Start with the very simple JSON (i.e. no field only name ), implement
+                  getClassNames, getSourceCode, createAllClasses.
+
+6.                
+Task:   Handle primitive types
+Estimated Time:  1 h
+Target Deadline:  Jan 29
+Actual Time:      1 h
+Actual Delivery:  Jan 31
+Commit ID:        d0a0cd983a5e423e471a99bf9ac9a8068581bf9c
+Comments:         Elaborate the single class to a class with name and fields with primitive                                                                                                        types and implement all necessary functions.
+
+7.
+Task:   Handle String types
+Estimated Time:  20 min
+Target Deadline:  Jan 29
+Actual Time:      5 min
+Actual Delivery:  Jan 31
+Commit ID:        d0a0cd983a5e423e471a99bf9ac9a8068581bf9c 
+Comments:         Elaborate the single class to a class with name and fields with string                                                                                                           types and implement all necessary functions
+8.
+Task:   Work on entire class
+Estimated Time:  1.5 h
+Target Deadline: Jan 29
+Actual Time:     10 min
+Actual Delivery: Jan 31
+Commit ID:       d0a0cd983a5e423e471a99bf9ac9a8068581bf9c 
+Comments:        Elaborate the single class to a class with name and fields with class                                                                                                            types and implement all necessary functions.
+
+9.
+Task:   Handle array types
+Estimated Time:  2 h
+Target Deadline:  Jan 30
+Actual Time:      40 min
+Actual Delivery:  Jan 31
+Commit ID:        d0a0cd983a5e423e471a99bf9ac9a8068581bf9c
+Comments:          Elaborate the single class to a class with name and fields with array                                                                                                            types and implement all necessary functions. 
+
+10.
+Task:   Handle packages
+Estimated Time:  45 min
+Target Deadline:  Jan 30
+Actual Time:      15 min
+Actual Delivery:  Jan 31
+Commit ID:        d0a0cd983a5e423e471a99bf9ac9a8068581bf9c  
+Comments:         Elaborate the single class to a class with name, package and no field,                                                                                                           and implement all necessary functions.  
+
+11.
+Task:   Try entire class with valid types
+Estimated Time:  1.5 h
+Target Deadline:  Jan 30
+Actual Time:      5 min
+Actual Delivery:  Jan 31
+Commit ID:        d0a0cd983a5e423e471a99bf9ac9a8068581bf9c  
+Comments:         Elaborate the single class to a class with name, package and field of                                                                                                            any valid types, and implement all necessary functions.
+
+12.
+Task:   Handle multiple classes
+Estimated Time:  2 h
+Target Deadline:  Feb 1
+Actual Time:      10 min
+Actual Delivery:  Jan 31
+Commit ID:        d0a0cd983a5e423e471a99bf9ac9a8068581bf9c  
+Comments:         Elaborate the single class to multiple class, all of them can have names,                                                                                                        fields. Implement all necessary functions.   
+
+13.
+Task:   Handle nested classes
+Estimated Time:  2 h
+Target Deadline:  Feb 1
+Actual Time:      1 h
+Actual Delivery:  Feb 4
+Commit ID:        268ae066c55869c2f2b22ff139e9b8320d667d7e
+Comments:         Elaborate the single class to single nested class with names and fields.                                                                                                         Implement all necessary functions. 
+
+14.
+Task:   Implement serialization
+Estimated Time:  3 h
+Target Deadline:  Feb 3
+Actual Time:      7 h
+Actual Delivery:  Feb 4
+Commit ID:        268ae066c55869c2f2b22ff139e9b8320d667d7e
+Comments:         Implement serialization with different fields types (primitives, Strings, array, class).
+
+13. 
+Task:  Implement derialization 
+Estimated Time:  5 h
+Target Deadline:  Feb 4  
+Actual Time:      6 h
+Actual Delivery:  Feb 6
+Commit ID:        8b8517b623173c279950a320dfc1e1b25dbc165e
+Comments:         Implement derialization with different fields types (primitives, Strings, array, class).
+
+15.
+Task:   Debug
+Estimated Time:  1 h
+Target Deadline:  Feb 4
+Actual Time:      2 h
+Actual Delivery:  Feb 6
+Commit ID:        8b8517b623173c279950a320dfc1e1b25dbc165e
+Comments:         Try serialization and deserialization with different fields types (primitives, Strings, array, class),
+                  and see if the input output object is equal or not
